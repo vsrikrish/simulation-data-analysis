@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://viveks.me/simulation-data-analysis/schedule.html</loc>
-    <lastmod>2025-04-16T13:20:36.387Z</lastmod>
+    <lastmod>2025-04-20T23:28:00.659Z</lastmod>
   </url>
   <url>
     <loc>https://viveks.me/simulation-data-analysis/lit_critique.html</loc>
@@ -25,16 +25,16 @@
     <lastmod>2024-12-20T14:55:10.867Z</lastmod>
   </url>
   <url>
-    <loc>https://viveks.me/simulation-data-analysis/slides/notebooks/rahmstorf.html</loc>
-    <lastmod>2025-02-10T02:32:48.853Z</lastmod>
+    <loc>https://viveks.me/simulation-data-analysis/slides/lecture13-1-missing-example.html</loc>
+    <lastmod>2025-04-20T23:32:39.018Z</lastmod>
   </url>
   <url>
-    <loc>https://viveks.me/simulation-data-analysis/slides/notebooks/grinsted.html</loc>
-    <lastmod>2025-02-10T11:48:53.279Z</lastmod>
+    <loc>https://viveks.me/simulation-data-analysis/slides/notebooks/ebm.html</loc>
+    <lastmod>2025-02-10T11:48:56.237Z</lastmod>
   </url>
   <url>
-    <loc>https://viveks.me/simulation-data-analysis/slides/lecture11-1-information-criteria.html</loc>
-    <lastmod>2025-04-09T00:46:31.209Z</lastmod>
+    <loc>https://viveks.me/simulation-data-analysis/slides/notebooks/lynxhare.html</loc>
+    <lastmod>2025-02-17T21:11:09.202Z</lastmod>
   </url>
   <url>
     <loc>https://viveks.me/simulation-data-analysis/slides/lecture04-1-diffeqmodels.html</loc>
@@ -70,7 +70,7 @@
   </url>
   <url>
     <loc>https://viveks.me/simulation-data-analysis/slides/lecture12-2-missing-data.html</loc>
-    <lastmod>2025-04-16T13:20:00.307Z</lastmod>
+    <lastmod>2025-04-20T23:25:57.971Z</lastmod>
   </url>
   <url>
     <loc>https://viveks.me/simulation-data-analysis/slides/lecture03-2-timeseries.html</loc>
@@ -125,20 +125,24 @@
     <lastmod>2025-04-08T23:58:49.226Z</lastmod>
   </url>
   <url>
-    <loc>https://viveks.me/simulation-data-analysis/weeks/week12.html</loc>
-    <lastmod>2025-04-16T13:21:08.692Z</lastmod>
+    <loc>https://viveks.me/simulation-data-analysis/weeks/week13.html</loc>
+    <lastmod>2025-04-20T23:27:31.034Z</lastmod>
   </url>
   <url>
-    <loc>https://viveks.me/simulation-data-analysis/weeks/week08.html</loc>
-    <lastmod>2025-03-09T22:58:28.299Z</lastmod>
+    <loc>https://viveks.me/simulation-data-analysis/weeks/week06.html</loc>
+    <lastmod>2025-03-01T23:46:03.114Z</lastmod>
   </url>
   <url>
     <loc>https://viveks.me/simulation-data-analysis/weeks/week09.html</loc>
     <lastmod>2025-03-16T20:29:59.341Z</lastmod>
   </url>
   <url>
-    <loc>https://viveks.me/simulation-data-analysis/weeks/week06.html</loc>
-    <lastmod>2025-03-01T23:46:03.114Z</lastmod>
+    <loc>https://viveks.me/simulation-data-analysis/weeks/week08.html</loc>
+    <lastmod>2025-03-09T22:58:28.299Z</lastmod>
+  </url>
+  <url>
+    <loc>https://viveks.me/simulation-data-analysis/weeks/week12.html</loc>
+    <lastmod>2025-04-16T13:21:08.692Z</lastmod>
   </url>
   <url>
     <loc>https://viveks.me/simulation-data-analysis/weeks/week07.html</loc>
@@ -233,16 +237,16 @@
     <lastmod>2025-03-09T21:50:46.674Z</lastmod>
   </url>
   <url>
-    <loc>https://viveks.me/simulation-data-analysis/slides/lecture13-1-gaussian-processes.html</loc>
-    <lastmod>2025-04-15T11:38:15.002Z</lastmod>
+    <loc>https://viveks.me/simulation-data-analysis/slides/lecture11-1-information-criteria.html</loc>
+    <lastmod>2025-04-09T00:46:31.209Z</lastmod>
   </url>
   <url>
-    <loc>https://viveks.me/simulation-data-analysis/slides/notebooks/lynxhare.html</loc>
-    <lastmod>2025-02-17T21:11:09.202Z</lastmod>
+    <loc>https://viveks.me/simulation-data-analysis/slides/notebooks/grinsted.html</loc>
+    <lastmod>2025-02-10T11:48:53.279Z</lastmod>
   </url>
   <url>
-    <loc>https://viveks.me/simulation-data-analysis/slides/notebooks/ebm.html</loc>
-    <lastmod>2025-02-10T11:48:56.237Z</lastmod>
+    <loc>https://viveks.me/simulation-data-analysis/slides/notebooks/rahmstorf.html</loc>
+    <lastmod>2025-02-10T02:32:48.853Z</lastmod>
   </url>
   <url>
     <loc>https://viveks.me/simulation-data-analysis/about.html</loc>
