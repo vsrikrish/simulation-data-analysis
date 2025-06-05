@@ -135,7 +135,7 @@ Students can optimize their performance in the course by:
 
 ## Textbooks and Course Materials
 
-There is no required text for this class, and all course materials will be made available on the [course website](https://bee4850.github.io) or through the Cornell library. However, the following books might be useful as a supplement to/expansion on the topics covered in class:
+There is no required text for this class, and all course materials will be made available on the [course website](https://bee4850.github.iogit st) or through the Cornell library. However, the following books might be useful as a supplement to/expansion on the topics covered in class:
 
 - Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2013). *Bayesian Data Analysis* (3rd ed.). <http://www.stat.columbia.edu/~gelman/book/BDA3.pdf>
 - McElreath, R. (2020). *Statistical Rethinking: A Bayesian Course with Examples in R and Stan* (2nd ed.). <https://xcelab.net/rm/>
